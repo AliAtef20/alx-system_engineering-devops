@@ -1,2 +1,2 @@
 #!/bin/bash 
-export TRUEKNOELEDGE=1209 | echo $(($TRUEKNOELEDGE + 128 ))  
+export TRUEKNOELEDGE=1209 | echo $(($ TRUEKNOELEDGE + 128 )) 
